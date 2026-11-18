@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-label="Aucun favori">
+  <defs><linearGradient id="e" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fde7ef"/><stop offset="100%" stop-color="#fff4e6"/></linearGradient></defs>
+  <rect width="360" height="220" rx="24" fill="url(#e)"/>
+  <text x="150" y="105" font-size="64">❤</text>
+  <text x="180" y="150" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#123f32">Aucun favori</text>
+  <text x="180" y="182" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#3a5b4d">Ajoute des mots en favori</text>
+</svg>

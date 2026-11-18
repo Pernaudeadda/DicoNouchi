@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "DicoNouchi - Dictionnaire Nouchi-Français",
+  "short_name": "DicoNouchi",
+  "description": "Découvre et comprends les mots et expressions du Nouchi ivoirien.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#123f32",
+  "icons": [
+    { "src": "/icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/logo-diconouchi.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
